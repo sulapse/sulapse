@@ -1,5 +1,3 @@
-#
-
 >// be me
 >
 >// total beginner
