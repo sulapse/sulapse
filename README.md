@@ -37,7 +37,7 @@
 ```
 ## 🌐 Socials:
 <a href="https://www.linkedin.com/in/kevin-sundin-458801201/"> <img src="https://github-readme-tech-stack.vercel.app/api/cards?showBorder=false&lineCount=1&theme=discord&hideBg=true&hideTitle=true&line1=linkedin,linkedin,0A66C2;"/></a>
-<a href="https://www.instagram.com/quev404/">
+<a href="https://www.instagram.com/quev404/"></br>
   <img src="https://github-readme-tech-stack.vercel.app/api/cards?showBorder=false&lineCount=1&theme=discord&hideBg=true&hideTitle=true&line1=instagram,instagram,E4405F;" alt="My Tech Stack" /></a>
 # 
 
